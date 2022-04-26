@@ -48,7 +48,7 @@ Aadit Tambe
 Linked [here](https://aadittambe.com/docs/AaditTambe_Resume.pdf).
 
 ## 🌎 Website
-Portfolio inked [here](https://aadittambe.com/). GitHub linked [here](https://github.com/aadittambe).
+Portfolio linked [here](https://aadittambe.com/). GitHub linked [here](https://github.com/aadittambe).
 
 ## 📋 Clips
 ### 🕵️ Howard Center for Investigative Journalism
