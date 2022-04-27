@@ -10,7 +10,7 @@ I am Aadit, a journalist and developer who tells data-driven stories visually &m
     - 🕵️ [Howard Center for Investigative Journalism](#-howard-center-for-investigative-journalism)
     - 🏛 [Capital News Service](#-capital-news-service)
     - 📺 [NBC News](#-nbc-news)
-    - 🍲 [On the back burner](#-on-the-back-burner)
+    - 🖥 [Miscellaneous](#-miscellaneous)
 
 ## ✉️ Letter
 
@@ -83,7 +83,7 @@ Portfolio linked [here](https://aadittambe.com/). GitHub linked [here](https://g
 - [Florida's ban on vaccination proof requirements complicates U.S. cruise line comeback
 ](https://www.nbcnews.com/news/us-news/florida-s-ban-vaccination-proof-requirements-complicates-u-s-cruise-n1272161) — *July 1, 2021*
 
-### 🍲 On the back burner
+### 🖥 Miscellaneous
 ***Projects for capstone courses, miscellaneous portfolio items, hobby projects***
 - [Documentation for a NICAR class](https://palewi.re/docs/first-github-scraper/) about using the GitHub Actions framework for web scraping and sending a Slack notification. *(Co-author)*
 - [Documentation for a NICAR session](https://actions-pipeline.readthedocs.io/) about building a simple data pipeline with GitHub Actions — scheduling data collection and basic analysis. *(Co-author)*
