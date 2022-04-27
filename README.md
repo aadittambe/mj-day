@@ -90,4 +90,4 @@ Portfolio linked [here](https://aadittambe.com/). GitHub linked [here](https://g
 - An [index](https://github.com/aadittambe/interactives) of stand-alone interactives created by me as practice — mostly using D3, but also other tools.
 - A [Twitter bot](https://twitter.com/press_attacked) that tweets death anniversaries of journalists killed on the line of duty — repo [here](https://github.com/aadittambe/journalists-attacked/blob/main/bot.py).
 - A [news app](https://aadittambe.github.io/south-asia-journalists/build/index.html) that maps the killing of every journalist in South Asia since 1992 (to 2021) — repo [here](https://github.com/aadittambe/south-asia-journalists).
-- A [scraper](https://github.com/aadittambe/kindle-cost-scraper) that records the cost of an ad-supported, black Amazon Kindle and send an email notification when the price drops.# mj-day
+- A [scraper](https://github.com/aadittambe/kindle-cost-scraper) that records the cost of an ad-supported, black Amazon Kindle and send an email notification when the price drops.
