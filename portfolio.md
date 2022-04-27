@@ -67,10 +67,11 @@ Portfolio linked [here](https://aadittambe.com/). GitHub linked [here](https://g
 
 ## Clips
 ### Howard Center for Investigative Journalism
-- [As Walmart sales soared, workers got scant COVID-19 protection from OSHA](https://cnsmaryland.org/2021/05/12/as-walmart-sales-soared-workers-got-scant-covid-19-protection-from-osha/) — *May. 12, 2021*
+- Lottery investigation — *upcoming*
+- [As Walmart sales soared, workers got scant COVID-19 protection from OSHA](https://cnsmaryland.org/2021/05/12/as-walmart-sales-soared-workers-got-scant-covid-19-protection-from-osha/) — *May 12, 2021*
 - [How do OSHA inspections work?
-](https://www.youtube.com/watch?v=HUzIJZN_118) — *May. 12, 2021*
-- [US deems migrant seafood workers ‘essential’ but limits their COVID-19 protections](https://cnsmaryland.org/2021/05/12/us-deems-migrant-seafood-workers-essential-but-limits-their-covid-19-protections/) — *May. 12, 2021*
+](https://www.youtube.com/watch?v=HUzIJZN_118) — *May 12, 2021*
+- [US deems migrant seafood workers ‘essential’ but limits their COVID-19 protections](https://cnsmaryland.org/2021/05/12/us-deems-migrant-seafood-workers-essential-but-limits-their-covid-19-protections/) — *May 12, 2021*
 
 ### Capital News Service
 - [News App: Opening up University of Maryland police logs](https://cnsmaryland.org/interactives/fall2021/umd-crime/index.html) — *Dec. 16, 2021*

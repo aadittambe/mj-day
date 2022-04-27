@@ -53,10 +53,10 @@ Portfolio linked [here](https://aadittambe.com/). GitHub linked [here](https://g
 ## 📋 Clips
 ### 🕵️ Howard Center for Investigative Journalism
 - Lottery investigation — *upcoming*
-- [As Walmart sales soared, workers got scant COVID-19 protection from OSHA](https://cnsmaryland.org/2021/05/12/as-walmart-sales-soared-workers-got-scant-covid-19-protection-from-osha/) — *May. 12, 2021*
+- [As Walmart sales soared, workers got scant COVID-19 protection from OSHA](https://cnsmaryland.org/2021/05/12/as-walmart-sales-soared-workers-got-scant-covid-19-protection-from-osha/) — *May 12, 2021*
 - [How do OSHA inspections work?
-](https://www.youtube.com/watch?v=HUzIJZN_118) — *May. 12, 2021*
-- [US deems migrant seafood workers ‘essential’ but limits their COVID-19 protections](https://cnsmaryland.org/2021/05/12/us-deems-migrant-seafood-workers-essential-but-limits-their-covid-19-protections/) — *May. 12, 2021*
+](https://www.youtube.com/watch?v=HUzIJZN_118) — *May 12, 2021*
+- [US deems migrant seafood workers ‘essential’ but limits their COVID-19 protections](https://cnsmaryland.org/2021/05/12/us-deems-migrant-seafood-workers-essential-but-limits-their-covid-19-protections/) — *May 12, 2021*
 
 ### 🏛 Capital News Service
 - [News App: Opening up University of Maryland police logs](https://cnsmaryland.org/interactives/fall2021/umd-crime/index.html) — *Dec. 16, 2021*
@@ -69,19 +69,19 @@ Portfolio linked [here](https://aadittambe.com/). GitHub linked [here](https://g
 #### Bylines (I contributed text and / or data analysis and graphics): 
 - [Half of America is now fully vaccinated](https://www.nbcnews.com/news/us-news/half-america-now-fully-vaccinated-n1275798) — *Aug. 6, 2021*
 - [Interactive: What solved murder data says about homicides in the U.S.
-](https://www.nbcnews.com/news/us-news/track-solved-murder-rates-united-states-n1271928) — *June. 25, 2021*
-- [The pandemic sank mass transit use. Data show its slow recovery.](https://www.nbcnews.com/news/us-news/pandemic-sunk-mass-transit-use-data-shows-its-slow-recovery-n1274784#embed-20210715-national-ridership) — *July. 22, 2021*
-- [Map: See which states have passed critical race theory bills](https://www.nbcnews.com/news/nbcblk/map-see-which-states-have-passed-critical-race-theory-bills-n1271215) — *June. 17, 2021*
+](https://www.nbcnews.com/news/us-news/track-solved-murder-rates-united-states-n1271928) — *June 25, 2021*
+- [The pandemic sank mass transit use. Data show its slow recovery.](https://www.nbcnews.com/news/us-news/pandemic-sunk-mass-transit-use-data-shows-its-slow-recovery-n1274784#embed-20210715-national-ridership) — *July 22, 2021*
+- [Map: See which states have passed critical race theory bills](https://www.nbcnews.com/news/nbcblk/map-see-which-states-have-passed-critical-race-theory-bills-n1271215) — *June 17, 2021*
 
 #### Data anlsysis and graphics (I contributed data anlaysis / graphics)
 - [Senate scrambles to pass infrastructure bill this week after House leaves for August break](https://www.nbcnews.com/politics/congress/senate-scrambles-pass-infrastructure-bill-week-after-house-leaves-august-n1275642) — *Aug. 2, 2021*
-- [What U.S. abortion access looks like, in graphics](https://www.nbcnews.com/news/us-news/what-u-s-abortion-access-looks-graphics-n1274859#embed-20210616-abortion-legislation-map) — *July. 25, 2021*
+- [What U.S. abortion access looks like, in graphics](https://www.nbcnews.com/news/us-news/what-u-s-abortion-access-looks-graphics-n1274859#embed-20210616-abortion-legislation-map) — *July 25, 2021*
 - [Chicago's mayor said violent crime is on a 'downward trajectory.' That's not the whole story.
-](https://www.nbcnews.com/news/us-news/chicago-violent-crime-data-2021-n1273592#embed-20210708-violent-crime) — *July. 9, 2021*
-- [Collapsed Florida tower could have been repaired faster under repealed law, experts say](https://www.nbcnews.com/news/us-news/collapsed-florida-tower-could-have-been-repaired-faster-under-repealed-n1273310) — *July. 8, 2021*
-- [Some locals say a bitcoin mining operation is ruining one of the Finger Lakes. Here's how.](https://www.nbcnews.com/science/environment/some-locals-say-bitcoin-mining-operation-ruining-one-finger-lakes-n1272938) — *July. 5, 2021*
+](https://www.nbcnews.com/news/us-news/chicago-violent-crime-data-2021-n1273592#embed-20210708-violent-crime) — *July 9, 2021*
+- [Collapsed Florida tower could have been repaired faster under repealed law, experts say](https://www.nbcnews.com/news/us-news/collapsed-florida-tower-could-have-been-repaired-faster-under-repealed-n1273310) — *July 8, 2021*
+- [Some locals say a bitcoin mining operation is ruining one of the Finger Lakes. Here's how.](https://www.nbcnews.com/science/environment/some-locals-say-bitcoin-mining-operation-ruining-one-finger-lakes-n1272938) — *July 5, 2021*
 - [Florida's ban on vaccination proof requirements complicates U.S. cruise line comeback
-](https://www.nbcnews.com/news/us-news/florida-s-ban-vaccination-proof-requirements-complicates-u-s-cruise-n1272161) — *July. 1, 2021*
+](https://www.nbcnews.com/news/us-news/florida-s-ban-vaccination-proof-requirements-complicates-u-s-cruise-n1272161) — *July 1, 2021*
 
 ### 🍲 On the back burner
 ***Projects for capstone courses, miscellaneous portfolio items, hobby projects***
